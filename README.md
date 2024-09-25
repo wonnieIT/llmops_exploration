@@ -12,4 +12,4 @@ Langsmith vs Langtrace vs Langfuse
 ![스크린샷 2024-09-25 오후 3 32 49](https://github.com/user-attachments/assets/e0080ba9-ba4a-4dec-a379-5cea708932ab)
 
 
-오픈소스에 eks에 배포가 매우 쉬워보여서 langfuse 선택  
+오픈소스에 k8s 배포가 쉬워보여서 langfuse 선택  
